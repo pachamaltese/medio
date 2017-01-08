@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans');
 html,body{margin:0;padding:0;text-align:center;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;-moz-font-feature-settings: "liga" on;}
 body{line-height:1.58;color:rgba(0,0,0,0.8)}
-html,button,input,select,textarea,.pure-g [class*="pure-u"]{font-family:"Open Sans",sans-serif}
-html,button,input,select,textarea,.pure-u-10-24{font-family:"Open Sans",sans-serif}
+html,button,input,select,textarea,.pure-g [class*="pure-u"]{font-family:"Kievit",sans-serif}
+html,button,input,select,textarea,.pure-u-10-24{font-family:"Kievit",sans-serif}
 div.metabar-container{height:65px;position:absolute;top:0;height:65px;width:100%}
 div.metabar-container div.metabar{height:100%;box-shadow:0 0 1px rgba(0,0,0,0.15)}
-div.post-content,div.entry-content{font-weight:300;font-family:"Merriweather",serif;font-size:1.26em;--x-height-multiplier: 0.35;--baseline-multiplier: 0.179;}
-div.post-content h1,div.post-content h2,div.post-content h3,div.post-content h4,div.post-content h5,div.post-content h6,div.entry-content h1,div.entry-content h2,div.entry-content h3,div.entry-content h4,div.entry-content h5,div.entry-content h6{font-family:"Open Sans",sans-serif;font-weight:700;letter-spacing:-.028em}
+div.post-content,div.entry-content{font-weight:300;font-family:"Charter",serif;font-size:1.26em;--x-height-multiplier: 0.35;--baseline-multiplier: 0.179;}
+div.post-content h1,div.post-content h2,div.post-content h3,div.post-content h4,div.post-content h5,div.post-content h6,div.entry-content h1,div.entry-content h2,div.entry-content h3,div.entry-content h4,div.entry-content h5,div.entry-content h6{font-family:"Kievit",sans-serif;font-weight:700;letter-spacing:-.028em}
 div.post-content h1,div.post-content h2,div.entry-content h1,div.entry-content h2{font-size:36px}
 div.post-content h3,div.entry-content h3{font-size:32px}
 div.post-content h4,div.entry-content h4{font-size:28px}
@@ -30,7 +30,7 @@ div.main-container div.post{padding:20px}
 }
 div.main-container div.post h2{font-size:28px}
 div.main-container div.post h2 a{color:rgba(0,0,0,0.8);text-decoration:none}
-div.main-container div.post div.post-content{font-family:"Merriweather",serif;color:rgba(0,0,0,0.8)}
+div.main-container div.post div.post-content{font-family:"Charter",serif;color:rgba(0,0,0,0.8)}
 div.main-container div.post div.post-content a{background-position:0 23px}
 div.main-container div.post div.post-footer a{color:#57ad68;font-size:14px;line-height:35px;text-decoration:none}
 div.main-container div.post div.post-footer a:hover{text-decoration:underline}
@@ -57,7 +57,7 @@ div.post-meta div.meta-data a.category:hover{color:#57ad68}
 div.post-meta div.meta-data a.author{color:inherit}
 div.post-meta div.meta-data a.author:hover{color:rgba(0,0,0,0.6)}
 div.page-container{text-align:center;margin-top:80px}
-div.page-container div.entry-content{max-width:700px;margin:0 auto;text-align:left;font-family:"Merriweather",serif;line-height: 1.58;letter-spacing:-.004em;padding:20px}
+div.page-container div.entry-content{max-width:700px;margin:0 auto;text-align:left;font-family:"Charter",serif;line-height: 1.58;letter-spacing:-.004em;padding:20px}
 @media screen and (min-width: 35.5em) {
 div.page-container div.entry-content{line-height:1.58}
 }
@@ -170,7 +170,7 @@ div.author-page-header div.cover{height:400px}
 div.author-page-header div.avatar,div.author-page-header div.avatar-no-cover{display:inline-block;width:120px;height:120px}
 div.author-page-header div.avatar img,div.author-page-header div.avatar-no-cover img{border-radius:100%}
 div.author-page-header div.avatar{margin-top:-60px}
-div.author-page-header div.avatar-no-cover{margin-top:60px}
+div.author-page-header div.avatar-no-cover{margin-top:0}
 div.author-page-header div.author-profile{width:95%;margin:0 auto;margin-bottom:60px}
 @media screen and (min-width: 48em) {
 div.author-page-header div.author-profile{width:70%}
