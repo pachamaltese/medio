@@ -3,7 +3,7 @@
 # Medio Theme for Pelican
 
 Medio is a theme for [Pelican](https://github.com/getpelican/pelican). It is
-heavily inspired from [Pelican's Medius Theme]((https://onur.github.io/medius/medius.html)) and [Medium.com](https://medium.com).
+heavily inspired from [Medius Theme for Pelican]((https://onur.github.io/medius/medius.html)) and [Medium.com](https://medium.com).
 
 This theme is a slightly modified version of the theme I use for my blog [Reimagined Invention](http://pacha.hk).
 
